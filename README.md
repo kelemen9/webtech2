@@ -21,4 +21,4 @@ Futtasd: npm install
 Futtasd: node server.js
 
 
-A böngészőben navigálj a következő címre: http://localhost:5173"# Web_technologiak_II" 
+A böngészőben navigálj a következő címre: http://localhost:5173
